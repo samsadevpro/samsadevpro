@@ -4,9 +4,6 @@
 
 🌟 À propos de moi
 
-Salut !
-Moi c’est Sami, étudiant en BTS SIO SLAM à Paris.
-
 Je développe des applications et des sites web.
 
 Ma stack principale : HTML, CSS, JavaScript, PHP, MySQL, et un peu de Python .
