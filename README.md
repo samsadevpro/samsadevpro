@@ -1,5 +1,7 @@
 👋 Salut, moi c’est Sami
+
 🎓 Étudiant en BTS SIO – Option SLAM
+
 🌟 À propos de moi
 
 Salut !
@@ -16,28 +18,3 @@ J’ai déjà réalisé plusieurs projets, dont mon préféré :
 
 J’ai créé plusieurs dépôts publics, et encore plus en privé pour mes projets d’école.
 Si tu veux voir comment j’avance, explore mes projets ici sur GitHub ! 🚀
-
-🛠️ Technologies & Outils
-🔤 Langages
-
-
-🧰 Outils
-
-
-
-
-
-
-
-
-
-
-📌 Projets en cours
-
-📱 Application Android – Gestion d’équipe de foot amateur
-
-🛒 Site e-commerce complet (front + back + base de données MySQL)
-
-🗂️ Scripts & automatisations Google Sheets
-
-🌐 Mini-projets web pour développer mes compétences
