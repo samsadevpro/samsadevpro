@@ -1,35 +1,27 @@
-👋 Salut, moi c’est Ton Nom
+👋 Salut, moi c’est Sami
 🎓 Étudiant en BTS SIO – Option SLAM
-💻 Développeur Web & Mobile • Passionné par la création de projets utiles et modernes
 🌟 À propos de moi
 
-🎓 Actuellement en BTS SIO SLAM
+Salut !
+Moi c’est Sami, étudiant en BTS SIO SLAM en France.
 
-👨‍💻 Développeur Web (HTML, CSS, JS, PHP, SQL)
+Je développe des applications et des sites web dès que j’ai une idée en tête.
+Quand une idée me vient, il y a de grandes chances que je la code et que je la mette en ligne.
 
-📱 Développeur Android (Java / Kotlin)
+Ma stack principale : HTML, CSS, JavaScript, PHP, MySQL, et un peu de Java/Android.
+Mes outils préférés : VS Code, Android Studio, Laragon et mes notes sur Google Workspace.
 
-🛠️ Création d’un site e-commerce avec Laragon + MySQL
+J’ai déjà réalisé plusieurs projets, dont mon préféré :
+👉 Mon site e-commerce + mon application mobile pour une équipe de foot.
 
-⚽ Développement d’une application mobile pour une équipe de football amateur
-
-🚀 Toujours en apprentissage pour devenir un développeur polyvalent et professionnel
+J’ai créé plusieurs dépôts publics, et encore plus en privé pour mes projets d’école.
+Si tu veux voir comment j’avance, explore mes projets ici sur GitHub ! 🚀
 
 🛠️ Technologies & Outils
-Langages
+🔤 Langages
 
 
-
-
-
-
-
-
-
-
-
-
-Outils
+🧰 Outils
 
 
 
@@ -44,19 +36,8 @@ Outils
 
 📱 Application Android – Gestion d’équipe de foot amateur
 
-🛒 Site e-commerce complet (Front + Back + Base de données MySQL)
+🛒 Site e-commerce complet (front + back + base de données MySQL)
 
-📊 Automatisation Google Sheets via scripts et formulaires
+🗂️ Scripts & automatisations Google Sheets
 
-🌐 Différents mini-projets Web pour m’entraîner au développement
-
-📊 Statistiques GitHub
-
-📫 Me contacter
-
-📧 Email : TonEmailIci
-🌐 Portfolio : TonLienIci (si tu en as un)
-
-⭐ Merci d’être passé !
-
-N’hésite pas à explorer mes projets et à laisser une ⭐ si quelque chose te plaît !
+🌐 Mini-projets web pour développer mes compétences
