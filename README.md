@@ -5,7 +5,7 @@
 🌟 À propos de moi
 
 Salut !
-Moi c’est Sami, étudiant en BTS SIO SLAM en France.
+Moi c’est Sami, étudiant en BTS SIO SLAM en Paris.
 
 Je développe des applications et des sites web dès que j’ai une idée en tête.
 Quand une idée me vient, il y a de grandes chances que je la code et que je la mette en ligne.
