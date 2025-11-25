@@ -1,4 +1,4 @@
-![image alt](https://github.com/samsadevpro/samsadevpro/blob/2990efda9cb9fa38c30c6674ec125c3bb3a9be33/hq720.jpg)
+![image alt]()
 
 👋 Salut, moi c’est Sami
 
