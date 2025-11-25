@@ -1,5 +1,4 @@
-https://github.com/samsadevpro/samsadevpro/blob/afe3ae85e2caafd3d729d636ca8b8905e8143276/hq720.jpg
-
+![image alt](image url)
 👋 Salut, moi c’est Sami
 
 🎓 Étudiant en BTS SIO – Option SLAM
