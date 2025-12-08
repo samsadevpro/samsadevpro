@@ -18,9 +18,11 @@ Je travaille actuellement sur ce projet : [Gsb-doctors](https://github.com/samsa
 
 J'apprends actuellement **Angular, TypScript**
 
-- Tout mes projet scolaire ce retrouve ici : [https://samsadevpro.github.io/Portfoliosamiyoussoufi/](https://samsadevpro.github.io/Portfoliosamiyoussoufi/)
+- Tout mes projet scolaire ce retrouve ici : [Portfolio](https://samsadevpro.github.io/Portfoliosamiyoussoufi/)
 
 - Contacter-moi ici :**samdevpro@gamil.com**
+
+- Discord : [Discord](https://discord/)
 
 <p align="left">
 </p>
