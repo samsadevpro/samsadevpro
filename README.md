@@ -22,7 +22,7 @@ J'apprends actuellement **Angular, TypScript**
 
 - Contacter-moi ici :**samdevpro@gamil.com**
 
-- Discord : [Discord]([https://discord/](https://discord.gg/xTAZfE97))
+- Discord : [Discord](https://discord.gg/xTAZfE97)
 
 <p align="left">
 </p>
