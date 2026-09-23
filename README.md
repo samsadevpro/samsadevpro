@@ -2,7 +2,7 @@
 
 👋 Salut, moi c’est Sami
 
-🎓 Étudiant en BTS SIO – Option SLAM
+🎓 Étudiant en licence informatique général 
 
 🌟 À propos de moi
 
