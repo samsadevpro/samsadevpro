@@ -14,9 +14,9 @@ Mes outils préférés : VS Code, Android Studio, Laragon et mes notes sur Googl
 J’ai déjà réalisé plusieurs projets, dont mon préféré :
 👉 Mon site e-commerce + mon application mobile pour une équipe de foot.
 
-Je travaille actuellement sur ce projet : [Gsb-doctors](https://github.com/samsadevpro/GSB-DOC)
+Je travaille actuellement sur ce projet : [Kehops-s-Artefacts]([https://github.com/samsadevpro/GSB-DOC](https://github.com/EdgarMolard/Kehops-s-Artefacts))
 
-J'apprends actuellement **Angular, TypScript**
+J'apprends actuellement **Java, Arduino**
 
 - Tout mes projet scolaire ce retrouve ici : [Portfolio](https://samsadevpro.github.io/Portfoliosamiyoussoufi/)
 
